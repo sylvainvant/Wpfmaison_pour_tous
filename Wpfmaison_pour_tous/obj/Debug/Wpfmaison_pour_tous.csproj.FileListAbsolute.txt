@@ -1,0 +1,12 @@
+G:\Visual Studio 2012\Projects\evaluation_ecf1\Wpfmaison_pour_tous\Wpfmaison_pour_tous\bin\Debug\Wpfmaison_pour_tous.exe.config
+G:\Visual Studio 2012\Projects\evaluation_ecf1\Wpfmaison_pour_tous\Wpfmaison_pour_tous\obj\Debug\MainWindow.baml
+G:\Visual Studio 2012\Projects\evaluation_ecf1\Wpfmaison_pour_tous\Wpfmaison_pour_tous\obj\Debug\MainWindow.g.cs
+G:\Visual Studio 2012\Projects\evaluation_ecf1\Wpfmaison_pour_tous\Wpfmaison_pour_tous\obj\Debug\App.g.cs
+G:\Visual Studio 2012\Projects\evaluation_ecf1\Wpfmaison_pour_tous\Wpfmaison_pour_tous\obj\Debug\Wpfmaison_pour_tous_MarkupCompile.cache
+G:\Visual Studio 2012\Projects\evaluation_ecf1\Wpfmaison_pour_tous\Wpfmaison_pour_tous\obj\Debug\Wpfmaison_pour_tous.g.resources
+G:\Visual Studio 2012\Projects\evaluation_ecf1\Wpfmaison_pour_tous\Wpfmaison_pour_tous\obj\Debug\Wpfmaison_pour_tous.Properties.Resources.resources
+G:\Visual Studio 2012\Projects\evaluation_ecf1\Wpfmaison_pour_tous\Wpfmaison_pour_tous\obj\Debug\Wpfmaison_pour_tous.csproj.GenerateResource.Cache
+G:\Visual Studio 2012\Projects\evaluation_ecf1\Wpfmaison_pour_tous\Wpfmaison_pour_tous\bin\Debug\Wpfmaison_pour_tous.exe
+G:\Visual Studio 2012\Projects\evaluation_ecf1\Wpfmaison_pour_tous\Wpfmaison_pour_tous\bin\Debug\Wpfmaison_pour_tous.pdb
+G:\Visual Studio 2012\Projects\evaluation_ecf1\Wpfmaison_pour_tous\Wpfmaison_pour_tous\obj\Debug\Wpfmaison_pour_tous.exe
+G:\Visual Studio 2012\Projects\evaluation_ecf1\Wpfmaison_pour_tous\Wpfmaison_pour_tous\obj\Debug\Wpfmaison_pour_tous.pdb
